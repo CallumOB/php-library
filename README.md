@@ -31,3 +31,22 @@ Both of the following pages require the user to be logged in, and shows appropri
 
 # Screenshots
 
+## index.php
+![index-1](screenshots/index-1.png)
+![index-2](screenshots/index-2.png)
+
+## register.php
+![register-1](screenshots/register-1.png)
+![register-2](screenshots/register-2.png)
+
+## reserve.php
+![reserve](screenshots/reserve.png)
+
+## search.php
+![search-1](screenshots/search-1.png)
+![search-2](screenshots/search-2.png)
+
+## No Access Error
+![no-access](screenshots/no-access.png)
+
+
