@@ -9,13 +9,13 @@ The website features the following pages:
 
 * register.php
 	- Allows the user to create an account.
-	- Incorporates full error checking, including:
-	1. Checking for a unique username
-	2. Ensuring a minimum password length
-	3. Ensuring both passwords entered match
-	4. Ensuring the phone number entered is fully numeric
-	5. Ensuring the phone number is the correct length and is unique 
-	6. Ensures all required fields have been filled out.
+	* Incorporates full error checking, including:
+		- Checking for a unique username
+		- Ensuring a minimum password length
+		- Ensuring both passwords entered match
+		- Ensuring the phone number entered is fully numeric
+		- Ensuring the phone number is the correct length and is unique 
+		- Ensures all required fields have been filled out.
 	- All of this is done using PHP validation, and appropriate error messages are displayed to the user.
 
 Both of the following pages require the user to be logged in, and shows appropriate error messages where needed.
